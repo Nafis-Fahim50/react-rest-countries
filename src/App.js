@@ -1,14 +1,11 @@
-import logo from './logo.svg';
 import './App.css';
-import { useEffect, useState } from 'react';
 import Countries from './components/Countries/Countries';
-import Person from './components/Person/Person';
+
 
 function App() {
   return (
     <div className="App">
       <Countries></Countries>
-      <Person></Person>
     </div>
   );
   }

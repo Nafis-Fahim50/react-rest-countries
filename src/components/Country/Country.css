@@ -1,0 +1,11 @@
+.country{
+    background-color: orangered;
+    margin: 20px;
+    padding: 15px;
+    border: 5px solid black;
+    border-radius: 5px;
+}
+
+.country img{
+    width: 200px;
+}
